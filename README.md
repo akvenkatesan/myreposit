@@ -1,2 +1,0 @@
-# myreposit
-my first repository
